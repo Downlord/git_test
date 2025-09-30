@@ -8,3 +8,7 @@
     - name: "debug was anderes"
       debug:
         msg: was anderes
+
+    - name: "debug noch was anderes"
+      debug:
+        msg: noch was anderes
